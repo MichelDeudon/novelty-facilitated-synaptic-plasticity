@@ -15,33 +15,12 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 
 ### Morph sequence: p=5 patterns (on 16 neurons)
 
-- Noisy stimuli
-
-![Noisy_Stimuli4](./gitimg/Noisy_Stimuli4.png)
-
-- Standard Hopfield Net Recall
-
-![Hopfield_Recall4](./gitimg/Hopfield_Recall4.png)
-
-- Extended Hopfield Net Recall
-
-![Novelty0_biased_Recall4](./gitimg/Novelty0_biased_Recall4.png)
+![denoise4](./gitimg/denoise4.png)
 
 
 ### Morph sequence: p=9 patterns (on 32 neurons)
 
-- Noisy stimuli
-
-![Noisy_Stimuli8](./gitimg/Noisy_Stimuli8.png)
-
-- Standard Hopfield Net Recall
-
-![Hopfield_Recall8](./gitimg/Hopfield_Recall8.png)
-
-- Extended Hopfield Net Recall
-
-![Novelty0_biased_Recall8](./gitimg/Novelty0_biased_Recall8.png)
-
+![denoise8](./gitimg/denoise8.png)
 
 ### Morph sequence: p=33 patterns (on 128 neurons)
 
