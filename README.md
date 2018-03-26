@@ -11,11 +11,47 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 - [Python](https://anaconda.org/anaconda/python)
 - [Jupyter](http://jupyter.org/)
 
-## Results
+## Denoising task
 
-![tsp1000.1](./GitImg/TSP100.1.png)
+### Morph sequence: p=5 patterns (on 16 neurons)
 
-![tsp100.2](./GitImg/TSP100.2.png)
+![Noisy_Stimuli4](./gitimg/Noisy_Stimuli4.png)
+
+- Noisy stimuli
+
+![Hopfield_Recall4](./gitimg/Hopfield_Recall4.png)
+
+- Standard Hopfield Net Recall
+
+![Novelty0_biased_Recall4](./gitimg/Novelty0_biased_Recall4.png)
+
+- Extended Hopfield Net Recall
+
+
+### Morph sequence: p=9 patterns (on 32 neurons)
+
+![Noisy_Stimuli8](./gitimg/Noisy_Stimuli8.png)
+
+- Noisy stimuli
+
+![Hopfield_Recall8](./gitimg/Hopfield_Recall8.png)
+
+- Standard Hopfield Net Recall
+
+![Novelty0_biased_Recall8](./gitimg/Novelty0_biased_Recall8.png)
+
+- Extended Hopfield Net Recall
+
+### Morph sequence: p=33 patterns (on 128 neurons)
+
+![Novelty0_biased_PCA32](./gitimg/Novelty0_biased_PCA32.png)
+
+- Extended Hopfield Net Bassins of Attraction (gradual learning protocol)
+
+![Novelty1_biased_PCA32](./gitimg/Novelty1_biased_PCA32.png)
+
+- Extended Hopfield Net Bassins of Attraction (mixed learning protocol)
+
 
 ## Acknowledgments
 
