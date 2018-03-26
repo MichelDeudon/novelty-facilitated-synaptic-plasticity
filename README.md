@@ -20,7 +20,7 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 
 ### Morph sequence: p=9 patterns (on 32 neurons)
 
-![denoise8](./gitimg/denoise8.png)
+![desnoise8](./gitimg/desnoise8.png)
 
 ### Morph sequence: p=33 patterns (on 128 neurons)
 
