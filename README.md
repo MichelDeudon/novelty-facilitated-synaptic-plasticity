@@ -20,9 +20,11 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 ![Noisy_Stimuli4](./gitimg/Noisy_Stimuli4.png)
 
 - Standard Hopfield Net Recall
+
 ![Hopfield_Recall4](./gitimg/Hopfield_Recall4.png)
 
 - Extended Hopfield Net Recall
+
 ![Novelty0_biased_Recall4](./gitimg/Novelty0_biased_Recall4.png)
 
 
@@ -33,9 +35,11 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 ![Noisy_Stimuli8](./gitimg/Noisy_Stimuli8.png)
 
 - Standard Hopfield Net Recall
+
 ![Hopfield_Recall8](./gitimg/Hopfield_Recall8.png)
 
 - Extended Hopfield Net Recall
+
 ![Novelty0_biased_Recall8](./gitimg/Novelty0_biased_Recall8.png)
 
 
