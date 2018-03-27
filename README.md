@@ -11,27 +11,6 @@ The model consists in an extended Hopfield Network with a Novelty Signal to stor
 - [Python](https://anaconda.org/anaconda/python)
 - [Jupyter](http://jupyter.org/)
 
-## Denoising task
-
-### Morph sequence: p=5 patterns (on 16 neurons)
-
-![denoise4](./gitimg/denoise4.png)
-
-
-### Morph sequence: p=9 patterns (on 32 neurons)
-
-![desnoise8](./gitimg/desnoise8.png)
-
-### Morph sequence: p=33 patterns (on 128 neurons)
-
-- Extended Hopfield Net Bassins of Attraction (gradual learning protocol)
-![Novelty0_biased_PCA32](./gitimg/Novelty0_biased_PCA32.png)
-
-- Extended Hopfield Net Bassins of Attraction (mixed learning protocol)
-![Novelty1_biased_PCA32](./gitimg/Novelty1_biased_PCA32.png)
-
-
-
 ## Acknowledgments
 
 Special thanks to [Pr. Jean-Pierre Nadal](http://www.lps.ens.fr/~nadal/) (École Normale Supérieure) for his course on Computational Neuroscience at ENS Cachan (M2 MVA).
